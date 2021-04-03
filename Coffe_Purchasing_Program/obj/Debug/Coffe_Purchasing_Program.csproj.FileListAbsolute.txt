@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Documents\Visual Studio 2012\C#\Coffe_Purchasing_Program\Coffe_Purchasing_Program\bin\Debug\Coffe_Purchasing_Program.exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2012\C#\Coffe_Purchasing_Program\Coffe_Purchasing_Program\bin\Debug\Coffe_Purchasing_Program.exe
+C:\Users\ADMIN\Documents\Visual Studio 2012\C#\Coffe_Purchasing_Program\Coffe_Purchasing_Program\bin\Debug\Coffe_Purchasing_Program.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2012\C#\Coffe_Purchasing_Program\Coffe_Purchasing_Program\obj\Debug\Coffe_Purchasing_Program.exe
+C:\Users\ADMIN\Documents\Visual Studio 2012\C#\Coffe_Purchasing_Program\Coffe_Purchasing_Program\obj\Debug\Coffe_Purchasing_Program.pdb
